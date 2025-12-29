@@ -8,10 +8,12 @@
 
 ---
 
-- `requirements.md` — библиотеки для автотестов  
-- `conftest.py` — фикстуры (session, base_url, seller_id, created_item)  
-- `test_items_api.py` — сами автотесты  
+- `requirements.txt` — библиотеки для автотестов  
+- `conftest.py` — сонфиг
+- `fixture.py` — фикстура 
+- `test_advertisement_microservice.py` — сами автотесты  
 - `TESTCASES.md` — ручные тест-кейсы 
+- `BUGS.md` — баги API
 
 ## Запуск автотестов в IDE
 - Клонировать репозиторий и перейти в дирректорию
